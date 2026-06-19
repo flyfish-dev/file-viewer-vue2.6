@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-06-19T10:08:26.287Z",
+  "sourceBranch": "v3",
+  "sourceCommit": "aa31fe9",
+  "organization": "flyfish-dev",
+  "framework": "Vue 2.6",
+  "packageName": "@file-viewer/vue2.6",
+  "packageVersion": "2.0.0",
+  "repository": "file-viewer-vue2.6",
+  "github": "https://github.com/flyfish-dev/file-viewer-vue2.6",
+  "gitee": "https://gitee.com/flyfish-dev/file-viewer-vue2.6",
+  "entryFormats": [
+    "esm",
+    "types"
+  ],
+  "historicalPackages": [],
+  "sourcePackageDir": "packages/wrappers/vue2.6",
+  "corePackage": "@file-viewer/core",
+  "coreSourceVisibility": "private-source"
+}
